@@ -13,15 +13,11 @@ The layout adapts to different screen sizes:
 - Media queries for responsiveness
 
 # 📬 Submission
+http://localhost:5500/hello.html
 
 This project was completed and submitted as part of the **Web Development Internship Task 1**.
 
 ---
-
-
-
----
-
 ## 📄 License
 
 This project is licensed for educational use during the internship task.
